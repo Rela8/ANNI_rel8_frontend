@@ -1,6 +1,6 @@
 import styles from '../../styles/Home.module.css'
 import { Card,Box,IconButton, InputAdornment, Typography,TextField, Button,Grid, Checkbox, } from "@mui/material"
-import Logo from '../../images/logo.svg'
+import Logo from '../../images/logo.png'
 import Lock from '@mui/icons-material/Lock'
 import Person from '@mui/icons-material/Person'
 import Visibility from '@mui/icons-material/Visibility'

@@ -1,7 +1,7 @@
 import {AppBar,Typography,Box, Container, Button, Drawer, Toolbar, Grid, IconButton} from '@mui/material';
 import styles from '../styles/Home.module.css'
 import Link from 'next/link'
-import Logo from '../images/logo.svg'
+import Logo from '../images/logo.png'
 import {useState, useEffect} from 'react'
 import Popover from '@mui/material/Popover';
 import Menu from '@mui/material/Menu';

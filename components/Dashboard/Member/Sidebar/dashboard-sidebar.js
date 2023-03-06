@@ -17,7 +17,7 @@ import Photo from '@mui/icons-material/Photo'
 import EventRounded from '@mui/icons-material/EventRounded'
 import MenuBook from '@mui/icons-material/MenuBook'
 import ChatBubble from '@mui/icons-material/ChatBubble'
-import LogoImage from '../../../../images/logo.svg'
+import LogoImage from '../../../../images/logo.png'
 import SwitchLabels from '../../../SwitchLabels';
 import Spinner from "../../../Spinner";
 import {BsBriefcaseFill} from 'react-icons/bs'
@@ -178,10 +178,10 @@ const content = (
           src={LogoImage.src}
           alt='logo'
           style={{
-            'width':'80px',
+            'width':'100%',
             'margin':'0 auto',
             'display':'block',
-            'height':'40px'
+            'height':'100%'
 
           }}
           />

@@ -14,7 +14,7 @@ import SettingsSuggest from  '@mui/icons-material/SettingsSuggest'
 import Info from  '@mui/icons-material/Info'
 import LogoutRounded from  '@mui/icons-material/LogoutRounded'
 import EventRounded from  '@mui/icons-material/EventRounded'
-import LogoImage from '../../../../images/logo.svg'
+import LogoImage from '../../../../images/logo.png'
 
 const items = [
   {

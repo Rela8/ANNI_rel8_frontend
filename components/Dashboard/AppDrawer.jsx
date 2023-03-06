@@ -15,7 +15,7 @@ import ListItemIcon from '@mui/material/ListItemIcon';
 import ListItemText from '@mui/material/ListItemText';
 import List from '@mui/material/List';
 import styles from '../../styles/Home.module.css'
-import Logo from "../../images/logo.svg"
+import Logo from "../../images/logo.png"
 import DashboardRounded from '@mui/icons-material/DashboardRounded'
 import Logout from '@mui/icons-material/Logout'
 import ArrowBack from '@mui/icons-material/ArrowBack'
